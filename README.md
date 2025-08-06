@@ -13,16 +13,6 @@ App web específica para llevar ficha y progreso de *Expediente Anunnaki*. **No 
 - PWA: instalación en iPhone/Android y uso offline
 - Iconos incluidos
 
-## Instalación en GitHub Pages (HTTPS)
-1. Crea un repo nuevo en GitHub (público).
-2. Sube todos los archivos de esta carpeta (manteniendo rutas).
-3. En el repo: **Settings → Pages** → Source: *Deploy from a branch* → Branch: `main` y `/ (root)` → Guardar.
-4. Espera 1–2 minutos y abre la URL de Pages que te da GitHub.
-5. En iPhone (Safari): **Compartir → Añadir a pantalla de inicio**.
-
-### (Opcional) Workflow automático
-Incluye `.github/workflows/pages.yml` para publicar automáticamente al hacer *push* a `main`.
-
 ## Importar/Exportar
 - Partida: **Exportar .anu2** / **Importar .anu/.anu2**
 - Chequeos: **Exportar/Importar** JSON (`ea_checks.json`)
