@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Persecución urbana",
+    "die": "d10",
+    "dif": 7,
+    "atr": "DES"
+  },
+  {
+    "name": "Forzar cerradura",
+    "die": "d10",
+    "dif": 6,
+    "atr": "DES"
+  },
+  {
+    "name": "Forzar puerta",
+    "die": "d10",
+    "dif": 6,
+    "atr": "FUE"
+  },
+  {
+    "name": "Esquivar ataque",
+    "die": "d10",
+    "dif": 7,
+    "atr": "DES"
+  },
+  {
+    "name": "Observar indicios",
+    "die": "d10",
+    "dif": 6,
+    "atr": "PER"
+  },
+  {
+    "name": "Rastrear",
+    "die": "d10",
+    "dif": 7,
+    "atr": "PER"
+  },
+  {
+    "name": "Trepar",
+    "die": "d10",
+    "dif": 6,
+    "atr": "FUE"
+  },
+  {
+    "name": "Sigilo",
+    "die": "d10",
+    "dif": 7,
+    "atr": "DES"
+  },
+  {
+    "name": "Interrogatorio frío",
+    "die": "d10",
+    "dif": 7,
+    "atr": "PER"
+  },
+  {
+    "name": "Control del pánico",
+    "die": "d10",
+    "dif": 6,
+    "atr": "PER"
+  },
+  {
+    "name": "Nadar",
+    "die": "d10",
+    "dif": 6,
+    "atr": "FUE"
+  },
+  {
+    "name": "Disparo de precisión",
+    "die": "d10",
+    "dif": 8,
+    "atr": "PER"
+  }
+]
